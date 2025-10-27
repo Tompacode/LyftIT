@@ -1,0 +1,1474 @@
+[
+    {
+        "Exercise": "Assisted Dip",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Band-Assisted Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Bar Dip",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Bench Press Against Band",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Board Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Cable Chest Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Clap Push-Up",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Close-Grip Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Close-Grip Feet-Up Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Cobra Push-Up",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Decline Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Decline Push-Up",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Dumbbell Chest Fly",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Dumbbell Chest Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Dumbbell Decline Chest Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Dumbbell Floor Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Dumbbell Pullover",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Feet-Up Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Floor Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Incline Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Incline Dumbbell Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Incline Push-Up",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Kettlebell Floor Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Kneeling Incline Push-Up",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Kneeling Push-Up",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Machine Chest Fly",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Machine Chest Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Pec Deck",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Pin Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Plank to Push-Up",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Push-Up",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Push-Up Against Wall",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Push-Ups With Feet in Rings",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Resistance Band Chest Fly",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Ring Dip",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Seated Cable Chest Fly",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Smith Machine Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Smith Machine Incline Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Smith Machine Reverse Grip Bench Press",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Standing Cable Chest Fly",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Standing Resistance Band Chest Fly",
+        "Muscle Group": "Chest"
+    },
+    {
+        "Exercise": "Arnold Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Band External Shoulder Rotation",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Band Internal Shoulder Rotation",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Band Pull-Apart",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Barbell Front Raise",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Barbell Rear Delt Row",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Barbell Upright Row",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Behind the Neck Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Cable Internal Shoulder Rotation",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Cable External Shoulder Rotation",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Cable Front Raise",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Cable Lateral Raise",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Cable Rear Delt Row",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Cuban Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Devils Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Dumbbell Front Raise",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Dumbbell Horizontal Internal Shoulder Rotation",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Dumbbell Horizontal External Shoulder Rotation",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Dumbbell Lateral Raise",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Dumbbell Rear Delt Row",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Dumbbell Shoulder Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Face Pull",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Front Hold",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Handstand Push-Up",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Jerk",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Kettlebell Halo",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Kettlebell Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Kettlebell Push Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Landmine Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Lying Dumbbell External Shoulder Rotation",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Lying Dumbbell Internal Shoulder Rotation",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Machine Lateral Raise",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Machine Shoulder Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Monkey Row",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "One-Arm Landmine Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Overhead Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Plate Front Raise",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Poliquin Raise",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Power Jerk",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Push Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Resistance Band Lateral Raise",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Reverse Cable Flyes",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Reverse Dumbbell Flyes",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Reverse Dumbbell Flyes on Incline Bench",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Reverse Machine Fly",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Seated Dumbbell Shoulder Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Seated Barbell Overhead Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Seated Kettlebell Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Seated Smith Machine Shoulder Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Smith Machine Landmine Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Snatch Grip Behind the Neck Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Squat Jerk",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Split Jerk",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Turkish Get-Up",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Wall Walk",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Z Press",
+        "Muscle Group": "Shoulders"
+    },
+    {
+        "Exercise": "Barbell Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Barbell Preacher Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Bayesian Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Bodyweight Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Cable Crossover Bicep Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Cable Curl With Bar",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Cable Curl With Rope",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Concentration Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Drag Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Dumbbell Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Dumbbell Preacher Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Hammer Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Incline Dumbbell Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Kettlebell Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Lying Bicep Cable Curl on Bench",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Lying Bicep Cable Curl on Floor",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Machine Bicep Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Overhead Cable Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Reverse Barbell Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Reverse Dumbbell Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Resistance Band Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Spider Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Zottman Curl",
+        "Muscle Group": "Biceps"
+    },
+    {
+        "Exercise": "Barbell Standing Triceps Extension",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Barbell Incline Triceps Extension",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Barbell Lying Triceps Extension",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Bench Dip",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Crossbody Cable Triceps Extension",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Close-Grip Push-Up",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Dumbbell Lying Triceps Extension",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Dumbbell Standing Triceps Extension",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "EZ Bar Lying Triceps Extension",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Machine Overhead Triceps Extension",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Overhead Cable Triceps Extension (Lower Position)",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Overhead Cable Triceps Extension (Upper Position)",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Smith Machine Skull Crushers",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Tate Press",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Tricep Bodyweight Extension",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Tricep Pushdown With Bar",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Tricep Pushdown With Rope",
+        "Muscle Group": "Triceps"
+    },
+    {
+        "Exercise": "Air Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Banded Hip March",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Barbell Hack Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Barbell Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Barbell Walking Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Belt Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Body Weight Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Bodyweight Leg Curl",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Box Jump",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Box Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Bulgarian Split Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Cable Machine Hip Adduction",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Chair Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Curtsy Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Dumbbell Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Dumbbell Walking Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Dumbbell Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Front Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Glute Ham Raise",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Goblet Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Ground to Overhead",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Hack Squat Machine",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Half Air Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Hip Adduction Against Band",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Hip Adduction Machine",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Jump Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Jumping Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Kettlebell Front Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Kettlebell Thrusters",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Landmine Hack Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Landmine Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Lateral Bound",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Leg Curl On Ball",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Leg Extension",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Leg Press",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Lying Leg Curl",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Nordic Hamstring Eccentric",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "One-Legged Leg Extension",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "One-Legged Lying Leg Curl",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "One-Legged Seated Leg Curl",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Pause Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Pendulum Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Pin Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Pistol Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Poliquin Step-Up",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Prisoner Get Up",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Reverse Barbell Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Reverse Body Weight Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Reverse Dumbbell Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Reverse Nordic",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Romanian Deadlift",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Safety Bar Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Seated Leg Curl",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Shallow Body Weight Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Side Lunges (Bodyweight)",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Smith Machine Bulgarian Split Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Smith Machine Front Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Smith Machine Lunge",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Smith Machine Romanian Deadlift",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Smith Machine Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Sumo Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Standing Cable Leg Extension",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Standing Hip Flexor Raise",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Step Up",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Tibialis Raise",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Vertical Leg Press",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Zercher Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Zombie Squat",
+        "Muscle Group": "Legs"
+    },
+    {
+        "Exercise": "Assisted Chin-Up",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Assisted Pull-Up",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Back Extension",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Banded Muscle-Up",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Barbell Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Barbell Shrug",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Block Clean",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Block Snatch",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Cable Close Grip Seated Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Cable Wide Grip Seated Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Chest to Bar",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Chin-Up",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Clean",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Clean and Jerk",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Close-Grip Chin-Up",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Close-Grip Lat Pulldown",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Deadlift",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Deficit Deadlift",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Dumbbell Deadlift",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Dumbbell Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Dumbbell Shrug",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Floor Back Extension",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Good Morning",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Gorilla Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Hang Clean",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Hang Power Clean",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Hang Power Snatch",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Hang Snatch",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Inverted Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Inverted Row with Underhand Grip",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Jefferson Curl",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Jumping Muscle-Up",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Kettlebell Clean",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Kettlebell Clean & Jerk",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Kettlebell Clean & Press",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Kettlebell Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Kettlebell Snatch",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Kettlebell Swing",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Kroc Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Lat Pulldown With Neutral Grip",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Lat Pulldown With Pronated Grip",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Lat Pulldown With Supinated Grip",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Machine Lat Pulldown",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Muscle-Up (Bar)",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Muscle-Up (Rings)",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Neutral Close-Grip Lat Pulldown",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "One-Handed Cable Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "One-Handed Kettlebell Swing",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "One-Handed Lat Pulldown",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Pause Deadlift",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Pendlay Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Power Clean",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Power Snatch",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Pull-Up",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Pull-Up With a Neutral Grip",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Rack Pull",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Renegade Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Ring Pull-Up",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Ring Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Scap Pull-Up",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Seal Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Seated Machine Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Single Leg Deadlift with Kettlebell",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Smith Machine Deadlift",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Smith Machine One-Handed Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Snatch",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Snatch Grip Deadlift",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Stiff-Legged Deadlift",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Straight Arm Lat Pulldown",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Sumo Deadlift",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Superman Raise",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "T-Bar Row",
+        "Muscle Group": "Back"
+    },
+    {
+        "Exercise": "Banded Side Kicks",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Cable Glute Kickback",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Cable Pull Through",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Cable Machine Hip Abduction",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Clamshells",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Cossack Squat",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Death March with Dumbbells",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Donkey Kicks",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Dumbbell Romanian Deadlift",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Dumbbell Frog Pumps",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Fire Hydrants",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Frog Pumps",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Glute Bridge",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Hip Abduction Against Band",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Hip Abduction Machine",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Hip Thrust",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Hip Thrust Machine",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Hip Thrust With Band Around Knees",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Kettlebell Windmill",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Lateral Walk With Band",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Machine Glute Kickbacks",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "One-Legged Glute Bridge",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "One-Legged Hip Thrust",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Reverse Hyperextension",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Romanian Deadlift",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Smith Machine Hip Thrust",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Single Leg Romanian Deadlift",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Standing Hip Abduction Against Band",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Standing Glute Kickback in Machine",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Standing Glute Push Down",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Step Up",
+        "Muscle Group": "Glutes"
+    },
+    {
+        "Exercise": "Ball Slams",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Bicycle Crunch",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Cable Crunch",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Captain\u2019s Chair Knee Raise",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Captain\u2019s Chair Leg Raise",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Copenhagen Plank",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Core Twist",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Crunch",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Dead Bug",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Dead Bug With Dumbbells",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Dragon Flag",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Dumbbell Side Bend",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Hanging Knee Raise",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Hanging Leg Raise",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Hanging Sit-Up",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Hanging Windshield Wiper",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "High to Low Wood Chop with Band",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "High to Low Wood Chop with Cable",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Hollow Body Crunch",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Hollow Hold",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Horizontal Wood Chop with Band",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Horizontal Wood Chop with Cable",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Jackknife Sit-Up",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Kettlebell Plank Pull Through",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Kneeling Ab Wheel Roll-Out",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Kneeling Plank",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Kneeling Side Plank",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Landmine Rotation",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "L-Sit",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Low to High Wood Chop with Band",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Low to High Wood Chop with Cable",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Lying Leg Raise",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Lying Windshield Wiper",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Lying Windshield Wiper with Bent Knees",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Machine Crunch",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Mountain Climbers",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Oblique Crunch",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Oblique Sit-Up",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Pallof Press",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Plank",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Plank with Leg Lifts",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Plank with Shoulder Taps",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Side Plank",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Sit-Up",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Weighted Plank",
+        "Muscle Group": "Abs"
+    },
+    {
+        "Exercise": "Barbell Standing Calf Raise",
+        "Muscle Group": "Calves"
+    },
+    {
+        "Exercise": "Barbell Seated Calf Raise",
+        "Muscle Group": "Calves"
+    },
+    {
+        "Exercise": "Calf Raise in Leg Press",
+        "Muscle Group": "Calves"
+    },
+    {
+        "Exercise": "Donkey Calf Raise",
+        "Muscle Group": "Calves"
+    },
+    {
+        "Exercise": "Eccentric Heel Drop",
+        "Muscle Group": "Calves"
+    },
+    {
+        "Exercise": "Heel Raise",
+        "Muscle Group": "Calves"
+    },
+    {
+        "Exercise": "Seated Calf Raise",
+        "Muscle Group": "Calves"
+    },
+    {
+        "Exercise": "Standing Calf Raise",
+        "Muscle Group": "Calves"
+    },
+    {
+        "Exercise": "Barbell Wrist Curl",
+        "Muscle Group": "Forearms & Grip"
+    },
+    {
+        "Exercise": "Barbell Wrist Curl Behind the Back",
+        "Muscle Group": "Forearms & Grip"
+    },
+    {
+        "Exercise": "Bar Hang",
+        "Muscle Group": "Forearms & Grip"
+    },
+    {
+        "Exercise": "Dumbbell Wrist Curl",
+        "Muscle Group": "Forearms & Grip"
+    },
+    {
+        "Exercise": "Farmers Walk",
+        "Muscle Group": "Forearms & Grip"
+    }
+]
