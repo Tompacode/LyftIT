@@ -6,6 +6,9 @@ export default function Layout() {
     await db.execAsync(
       "CREATE TABLE IF NOT EXISTS exercises (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT UNIQUE NOT NULL, muscle_group TEXT);"
     );
+    await db.execAsync(
+      "CREATE TABLE IF NOT EXISTS workouts (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT UNIQUE NOT NULL);"
+    );
   };
   
   return (

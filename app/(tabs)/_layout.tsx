@@ -12,7 +12,7 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="workoutPage"
+        name="workout"
         options={{
           title: 'Workout',
           tabBarIcon: ({ color }) => <FontAwesome size={28} name="barbell" color={color} />,
