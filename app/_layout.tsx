@@ -15,7 +15,7 @@ export default function Layout() {
     <SQLiteProvider databaseName='testerdb.db' onInit={createDbIfNeeded}>
     <Stack>
       <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-      <Stack.Screen name="modal" options={{ presentation: 'modal'}} />
+      <Stack.Screen name="exercises" options={{ presentation: 'modal'}} />
     </Stack>
     </SQLiteProvider>
   );
